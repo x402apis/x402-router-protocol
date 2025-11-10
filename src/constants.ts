@@ -1,4 +1,4 @@
-import { Chain, ChainConfig } from "./types/chains";
+import { Chain, ChainConfig } from "./types/chain";
 
 /**
  * Default registry URL

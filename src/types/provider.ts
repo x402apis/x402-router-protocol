@@ -1,4 +1,4 @@
-import { Chain } from "./chains";
+import { Chain } from "./chain";
 
 /**
  * Represents a provider node in the x402 network
