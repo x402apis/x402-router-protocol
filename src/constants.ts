@@ -3,7 +3,7 @@ import { Chain, ChainConfig } from "./types/chain";
 /**
  * Default registry URL
  */
-export const DEFAULT_REGISTRY_URL = 'https://registry.x402apis.io';
+export const DEFAULT_REGISTRY_URL = 'https://x402apis.io/api';
 
 /**
  * Default scoring weights
